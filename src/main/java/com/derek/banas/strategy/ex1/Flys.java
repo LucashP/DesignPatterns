@@ -1,4 +1,4 @@
-package com.derek.banas.strategy;
+package com.derek.banas.strategy.ex1;
 
 //The interface is implemented by many other
 //subclasses that allow for many types of flying

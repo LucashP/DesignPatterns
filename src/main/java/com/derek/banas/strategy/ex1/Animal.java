@@ -1,4 +1,4 @@
-package com.derek.banas.strategy;
+package com.derek.banas.strategy.ex1;
 
 public class Animal {
 
