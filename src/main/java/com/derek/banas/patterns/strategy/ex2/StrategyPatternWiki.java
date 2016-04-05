@@ -1,4 +1,4 @@
-package com.derek.banas.strategy.ex2;
+package com.derek.banas.patterns.strategy.ex2;
 
 import java.util.ArrayList;
 import java.util.List;

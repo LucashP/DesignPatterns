@@ -1,4 +1,4 @@
-package com.derek.banas.observer.ex2;
+package com.derek.banas.patterns.observer.ex2;
 
 import java.util.Observable;
 import java.util.Scanner;

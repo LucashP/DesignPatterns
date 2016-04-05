@@ -1,4 +1,4 @@
-package com.derek.banas.observer.ex1;
+package com.derek.banas.patterns.observer.ex1;
 
 //This interface handles adding, deleting and updating
 //all observers 

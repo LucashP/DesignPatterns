@@ -1,4 +1,4 @@
-package com.derek.banas.observer.ex1;
+package com.derek.banas.patterns.observer.ex1;
 
 //Represents each Observer that is monitoring changes in the subject
 public class StockObserver implements Observer {

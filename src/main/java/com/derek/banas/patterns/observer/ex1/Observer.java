@@ -1,4 +1,4 @@
-package com.derek.banas.observer.ex1;
+package com.derek.banas.patterns.observer.ex1;
 
 //The Observers update method is called when the Subject changes
 
