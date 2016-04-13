@@ -12,7 +12,7 @@ public class EnemyShipTesting {
 	EnemyShip theEnemy = null;
 
 	Scanner userInput = new Scanner(System.in);
-	System.out.print("What type of ship? (U / R / B)");
+	System.out.print("What type of ship? (U / R / B) ");
 
 	if (userInput.hasNextLine()) {
 	    String typeOfShip = userInput.nextLine();
