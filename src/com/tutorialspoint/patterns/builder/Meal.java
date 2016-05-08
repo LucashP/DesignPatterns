@@ -31,3 +31,5 @@ public class Meal {
             System.out.println(", Price : " + item.price());
         }
 
+    }
+}
